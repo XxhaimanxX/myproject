@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+	<Placemark>
+	<name>[ESS][BLE]</name>
+	<description>30/10/2017 13:20</description>
+	<Point>
+		<coordinates>35.20721514,32.10521905</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>[ESS][BLE]</name>
+	<description>30/10/2017 13:21</description>
+	<Point>
+		<coordinates>35.20691714,32.10518069</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>[WPA2-PSK-CCMP][ESS][BLE]</name>
+	<description>30/10/2017 13:21</description>
+	<Point>
+		<coordinates>35.20701007,32.10524499</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>[ESS][BLE]</name>
+	<description>30/10/2017 13:21</description>
+	<Point>
+		<coordinates>35.20699588,32.10525994</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>[WPA2-PSK-CCMP][ESS][BLE]</name>
+	<description>30/10/2017 13:21</description>
+	<Point>
+		<coordinates>35.20694415,32.10520927</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>[ESS][BLE]</name>
+	<description>30/10/2017 13:21</description>
+	<Point>
+		<coordinates>35.20701007,32.10524499</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>[ESS][BLE]</name>
+	<description>30/10/2017 13:21</description>
+	<Point>
+		<coordinates>35.20701007,32.10524499</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>[ESS][BLE]</name>
+	<description>30/10/2017 13:21</description>
+	<Point>
+		<coordinates>35.20699588,32.10525994</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>[ESS][BLE]</name>
+	<description>30/10/2017 13:21</description>
+	<Point>
+		<coordinates>35.20699588,32.10525994</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>[ESS][BLE]</name>
+	<description>30/10/2017 13:21</description>
+	<Point>
+		<coordinates>35.20698482,32.10522929</coordinates>
+	</Point>
+	</Placemark>
+</Document>
+</kml>
